@@ -1,0 +1,11 @@
+# LaTeX auxiliary files
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+
+# Output PDF (optional — remove this line if you want to track the PDF in git)
+harshsaw.pdf
