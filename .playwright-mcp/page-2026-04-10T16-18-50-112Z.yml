@@ -1,0 +1,228 @@
+- generic [active] [ref=e1]:
+  - complementary "Fraud alert" [ref=e2]:
+    - generic [ref=e3]:
+      - img "alert-icon" [ref=e4]
+      - paragraph [ref=e5]:
+        - text: We have been made aware of a fraudulent email originating from a “joinus-l3harris” or “viazohorecruit” domain. These are not legitimate L3Harris contacts. Fraudsters have been known to attempt to use our name to trick job seekers with fake employment opportunities. This type of scam is normally carried out through fake websites, job postings, chat applications or email accounts claiming to be from L3Harris. Please review the
+        - link "L3Harris Recruitment Fraud Awareness Message" [ref=e6] [cursor=pointer]:
+          - /url: https://careers.l3harris.com/en/recruitment-fraud-awareness
+        - text: for additional information.
+  - generic [ref=e7]:
+    - link "Skip to main content" [ref=e8] [cursor=pointer]:
+      - /url: "#content"
+    - banner [ref=e9]:
+      - link "L3Harris" [ref=e13] [cursor=pointer]:
+        - /url: /
+        - generic [ref=e14]: L3Harris
+      - heading "Step Forward With Us" [level=1] [ref=e19]:
+        - generic [ref=e20]: Step Forward
+        - generic [ref=e21]: With Us
+      - generic [ref=e23]:
+        - generic [ref=e24]: Search Jobs
+        - search [ref=e26]:
+          - group "Search Jobs" [ref=e27]:
+            - paragraph [ref=e28]:
+              - generic [ref=e29]: Keyword Search
+              - searchbox "Keyword Search" [ref=e30]
+            - paragraph [ref=e31]:
+              - generic [ref=e32]: City, State, or ZIP
+              - combobox "City, State, or ZIP" [ref=e33]
+            - paragraph [ref=e34]:
+              - generic [ref=e35]: Search radius
+              - combobox "Search radius" [disabled] [ref=e36] [cursor=pointer]:
+                - option "Radius" [selected]
+                - option "5 miles"
+                - option "15 miles"
+                - option "25 miles"
+                - option "35 miles"
+                - option "50 miles"
+            - button "Go" [ref=e37] [cursor=pointer]
+    - main [ref=e38]:
+      - generic [ref=e41]:
+        - link "L3Harris Recruitment Fraud Awareness Message" [ref=e42] [cursor=pointer]:
+          - /url: "#fraud-alert"
+        - generic [ref=e43]: 
+      - text: 
+      - generic [ref=e44]:
+        - generic [ref=e45]:
+          - heading "Embedded Software Engineering Intern" [level=2] [ref=e46]
+          - generic [ref=e47]:
+            - paragraph [ref=e48]: Ottawa, Canada
+            - generic [ref=e49]: "Job ID: 35767"
+        - generic [ref=e51]:
+          - link "Apply Now" [ref=e53] [cursor=pointer]:
+            - /url: https://career-hcm20.ns2cloud.com/careers?company=L3HHCM20&clientId=jobs2web&career_ns=job_application&career_job_req_id=35767
+          - generic [ref=e55]:
+            - paragraph [ref=e56]: L3Harris is dedicated to recruiting and developing high-performing talent who are passionate about what they do. Our employees are unified in a shared dedication to our customers’ mission and quest for professional growth. L3Harris provides an inclusive, engaging environment designed to empower employees and promote work-life success. Fundamental to our culture is an unwavering focus on values, dedication to our communities, and commitment to excellence in everything we do.
+            - paragraph [ref=e57]: L3Harris is the Trusted Disruptor in defense tech. With customers’ mission-critical needs always in mind, our employees deliver end-to-end technology solutions connecting the space, air, land, sea and cyber domains in the interest of national security.
+            - paragraph [ref=e58]:
+              - strong [ref=e59]: "Job Title: Embedded Software Engineering Intern"
+            - paragraph [ref=e60]:
+              - strong [ref=e61]: "Job Location: Ottawa"
+              - strong [ref=e62]: ", QC"
+            - paragraph [ref=e63]:
+              - strong [ref=e64]: "Job Code: 35767"
+            - paragraph [ref=e65]:
+              - strong [ref=e66]: "Job Schedule:"
+              - strong [ref=e67]: Day
+              - strong [ref=e68]: Shift
+            - paragraph [ref=e69]:
+              - strong [ref=e70]: "Essential Functions:"
+            - list [ref=e71]:
+              - listitem [ref=e72]: Design and implementation of software algorithms;
+              - listitem [ref=e73]: Develop automation scripts, code and processes to achieve faster workflow;
+              - listitem [ref=e74]: Interact with systems engineering on technical issues;
+              - listitem [ref=e75]: Debugging software issues;
+              - listitem [ref=e76]: Conduct independent research and provide new solutions to problems;
+              - listitem [ref=e77]: Conduct and prepare presentations and demonstrations;
+            - paragraph [ref=e78]:
+              - strong [ref=e79]: "Qualifications:"
+            - list [ref=e80]:
+              - listitem [ref=e81]: Completed 2nd year of Computer Science/Computer or Software Engineering, or Systems, Electrical Engineering with software knowledge;
+              - listitem [ref=e82]: Experience with C/C++ and object-oriented design and programming;
+              - listitem [ref=e83]: Commitment to work well done, ensuring follow-ups and seeing that deadlines are respected;
+              - listitem [ref=e84]: Ease of working with people (customer teams, several internal services and external suppliers);
+              - listitem [ref=e85]:
+                - text: Strong English written and spoken skills.
+                - strong
+            - paragraph [ref=e86]:
+              - strong [ref=e87]: "Preferred Additional Skills:"
+            - list [ref=e88]:
+              - listitem [ref=e89]: Experience with Linux or embedded Linux;
+              - listitem [ref=e90]: Strong organizational, analytical, and problem-solving skills;
+              - listitem [ref=e91]: Able to work independently and in a team-based environment.
+            - paragraph [ref=e92]:
+              - strong [ref=e93]: "Eligibility Criteria:"
+            - list [ref=e94]:
+              - listitem [ref=e95]: Must be eligible for registration with the Controlled Goods Program;
+              - listitem [ref=e96]:
+                - text: Must be eligible to obtain and maintain a government of Canada
+                - strong [ref=e97]: Reliability
+                - text: status and
+                - strong [ref=e98]: Secret Level 2/NATO Secret
+                - text: security clearance;
+              - listitem [ref=e99]: Must be eligible to meet the requirements for U.S. International Traffic in Arms Regulations (ITAR).
+            - paragraph [ref=e100]:
+              - strong [ref=e101]: "L3Harris is proud to be an equal opportunity employer and is committed to treating all of its employees and job applicants with respect and dignity and to maintaining a workplace free from discrimination. Anyone applying for a position will be considered without regard to the following: race, national or ethnic origin, colour, religion, age, nationality, ancestry, ethnicity, gender, sex, sexual orientation, gender identity or expression, marital status, family status, genetic characteristics, disability, citizenship status, or conviction for an offence for which a pardon has been granted or in respect of which a record suspension has been ordered, or any other characteristic that is protected by applicable human rights legislation."
+            - paragraph [ref=e102]:
+              - strong [ref=e103]: L3Harris maintains a drug-free workplace and conducts pre-employment drug and alcohol testing and background checks, in accordance with applicable law. Such results are only accessible and viewed by individuals at L3Harris who have direct responsibility in the hiring process. If you fail to report for a drug and alcohol test, refuse to undergo such test or test positive for the presence of drugs or alcohol, the hiring process may be concluded or your offer of employment may be rescinded, in L3Harris’ sole discretion.
+            - paragraph [ref=e104]:
+              - emphasis [ref=e105]: This job is for an existing vacancy
+            - paragraph [ref=e106]: At L3Harris, we foster an inclusive and equitable workplace. L3Harris is committed to treating all employees and applicants for employment with respect and dignity and maintaining a workplace that is free from unlawful discrimination. For applicants with disabilities, we will provide you with accommodation so that you have what you need in order to be at your best.
+            - paragraph [ref=e107]: L3Harris performs background checks prior to employment as all applicants must be eligible for registration with the Controlled Goods Program and obtain and maintain a positive security assessment. Some positions may require a government of Canada “Reliability” status and/or Level 2 (Secret) security clearance. In addition, L3Harris performs pre-employment substance abuse testing where required.
+          - link "Apply Now" [ref=e108] [cursor=pointer]:
+            - /url: https://career-hcm20.ns2cloud.com/careers?company=L3HHCM20&clientId=jobs2web&career_ns=job_application&career_job_req_id=35767
+        - generic [ref=e109]:
+          - generic [ref=e111]:
+            - heading "Share Job" [level=3] [ref=e112]
+            - list [ref=e113]:
+              - listitem [ref=e114]:
+                - link "LinkedIn" [ref=e115] [cursor=pointer]:
+                  - /url: http://www.linkedin.com/shareArticle?mini=true&url=https%3a%2f%2fcareers.l3harris.com%2fen%2fjob%2fottawa%2fembedded-software-engineering-intern%2f4832%2f93496271696%3futm_source%3dlinkedin.com%26utm_medium%3dsocial_post%26utm_campaign%3dL3Harris_Technologies_social&title=Embedded+Software+Engineering+Intern
+              - listitem [ref=e116]:
+                - link "Facebook" [ref=e117] [cursor=pointer]:
+                  - /url: https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fcareers.l3harris.com%2fen%2fjob%2fottawa%2fembedded-software-engineering-intern%2f4832%2f93496271696%3futm_source%3dfacebook.com%26utm_medium%3dsocial_post%26utm_campaign%3dL3Harris_Technologies_social
+              - listitem [ref=e118]:
+                - link "X" [ref=e119] [cursor=pointer]:
+                  - /url: https://x.com/intent/post?text=Embedded+Software+Engineering+Intern&url=https://careers.l3harris.com/en/job/ottawa/embedded-software-engineering-intern/4832/93496271696?utm_source=twitter.com%26utm_medium=social_post%26utm_campaign=L3Harris_Technologies_social
+              - listitem [ref=e120]:
+                - link "Email" [ref=e121] [cursor=pointer]:
+                  - /url: mailto:?subject=Embedded%20Software%20Engineering%20Intern&body=https%3a%2f%2fcareers.l3harris.com%2fen%2fjob%2fottawa%2fembedded-software-engineering-intern%2f4832%2f93496271696%3futm_source%3demail%26utm_medium%3dsocial_post%26utm_campaign%3dL3Harris_Technologies_social
+          - generic [ref=e122]:
+            - heading "Explore this Location" [level=2] [ref=e123]:
+              - generic [ref=e124]: Explore this Location
+            - link "View the Map" [ref=e125] [cursor=pointer]:
+              - /url: /en/job_location/ottawa/embedded-software-engineering-intern/4832/93496271696/872997
+      - generic [ref=e130]:
+        - heading "Join Our Talent Community" [level=3] [ref=e131]
+        - paragraph [ref=e132]: Sign up for job alerts and be the first to know about our job openings.
+        - button "Sign Up" [ref=e133] [cursor=pointer]
+      - list [ref=e135]:
+        - listitem [ref=e136]:
+          - button "Featured Job" [ref=e137] [cursor=pointer]
+        - listitem [ref=e138]:
+          - button "Recently Viewed Jobs" [ref=e139] [cursor=pointer]
+        - listitem [ref=e140]:
+          - button "Related Jobs" [ref=e141] [cursor=pointer]
+        - listitem [ref=e142]:
+          - button "Saved Jobs" [ref=e143] [cursor=pointer]
+    - contentinfo [ref=e145]:
+      - generic [ref=e146]:
+        - link "L3Harris Technologies" [ref=e147] [cursor=pointer]:
+          - /url: https://www.l3harris.com/
+          - img "L3Harris Technologies" [ref=e148]
+        - generic [ref=e149]:
+          - generic [ref=e150]:
+            - navigation "footer navigation" [ref=e151]:
+              - list [ref=e152]:
+                - listitem [ref=e153]:
+                  - link "Terms of Service" [ref=e154] [cursor=pointer]:
+                    - /url: https://www.l3harris.com/terms
+                - listitem [ref=e155]:
+                  - button "Cookie Settings" [ref=e156] [cursor=pointer]
+                - listitem [ref=e157]:
+                  - link "Site Map" [ref=e158] [cursor=pointer]:
+                    - /url: /sitemap
+                - listitem [ref=e159]:
+                  - link "Privacy Policy" [ref=e160] [cursor=pointer]:
+                    - /url: https://www.l3harris.com/en-au/privacy-policy
+                - listitem [ref=e161]:
+                  - link "Cookie Information" [ref=e162] [cursor=pointer]:
+                    - /url: /cookie-information
+                - listitem [ref=e163]:
+                  - link "L3Harris.com" [ref=e164] [cursor=pointer]:
+                    - /url: https://www.l3harris.com/
+            - paragraph [ref=e165]:
+              - text: L3Harris is committed to providing reasonable accommodation to individuals with disabilities. Candidates needing assistance are encouraged to email requests for reasonable accommodations to
+              - link "AppAssistance@L3harris.com" [ref=e166] [cursor=pointer]:
+                - /url: mailto:appassistance@l3harris.com
+              - text: ". Please include a description of your accommodation request and the following contact information: full name and the best contact number and/or preferred means to communicate with you."
+          - list [ref=e168]:
+            - listitem [ref=e169]:
+              - link "Twitter" [ref=e170] [cursor=pointer]:
+                - /url: //twitter.com/L3HarrisTech
+            - listitem [ref=e171]:
+              - link "LinkedIn" [ref=e172] [cursor=pointer]:
+                - /url: //www.linkedin.com/company/l3harris-technologies/
+            - listitem [ref=e173]:
+              - link "Facebook" [ref=e174] [cursor=pointer]:
+                - /url: //www.facebook.com/L3HarrisTechnologies/
+            - listitem [ref=e175]:
+              - link "YouTube" [ref=e176] [cursor=pointer]:
+                - /url: //www.youtube.com/channel/UCENNhz_O63zkKUHkj6bsIIQ
+            - listitem [ref=e177]:
+              - link "Instagram" [ref=e178] [cursor=pointer]:
+                - /url: //www.instagram.com/l3harristech/
+          - paragraph [ref=e179]: © 2026 L3Harris, Inc.
+  - status
+  - status
+  - status
+  - status
+  - generic:
+    - region "Cookie banner" [ref=e181]:
+      - dialog "This website uses cookies and similar technologies (collectively referred to here as cookies). L3Harris uses cookies to recognize you when you visit our websites and its subdomains." [ref=e182]:
+        - generic [ref=e184]:
+          - generic [ref=e186]:
+            - heading "This website uses cookies and similar technologies (collectively referred to here as cookies). L3Harris uses cookies to recognize you when you visit our websites and its subdomains." [level=2] [ref=e187]
+            - generic [ref=e188]:
+              - text: "We use cookies for a variety of purposes such as: for the operation of our website, understanding how you use our sites, marketing and advertisement, analyze traffic, personalize content, provide social media features and improving your experience. We also share information about your site use with our social media, advertising, and analytics partners."
+              - paragraph
+              - paragraph
+              - listitem [ref=e189]:
+                - text: For more information about L3Harris’ use of cookies, including your rights to control our use of them, see our
+                - link "Cookie Policy" [ref=e190] [cursor=pointer]:
+                  - /url: https://www.l3harris.com/en-au/cookie-policy#:~:text=Our%20website%20uses%20cookies%20and,us%20to%20improve%20our%20website.%22
+              - listitem [ref=e191]:
+                - text: For more information about our practices concerning your personal information, including your rights, please see our
+                - link "Privacy Policy" [ref=e192] [cursor=pointer]:
+                  - /url: https://www.l3harris.com/en-au/privacy-policy
+              - listitem [ref=e193]:
+                - text: For more information about the terms and conditions that govern your access to and use of L3Harris.com, please see our
+                - link "Terms of Use" [ref=e194] [cursor=pointer]:
+                  - /url: https://www.l3harris.com/terms
+          - generic [ref=e196]:
+            - button "Customize, Opens the preference center dialog" [ref=e197] [cursor=pointer]: Customize
+            - button "Reject Non-Essential Cookies" [ref=e198] [cursor=pointer]
+            - button "Accept All Cookies" [ref=e199] [cursor=pointer]
+        - button "Close" [ref=e201] [cursor=pointer]
+    - text: Customize

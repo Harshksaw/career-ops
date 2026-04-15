@@ -1,0 +1,197 @@
+- generic [active] [ref=e1]:
+  - link "Skip to main content" [ref=e2] [cursor=pointer]:
+    - /url: "#content"
+  - generic [ref=e4]:
+    - paragraph [ref=e5]: We care about your privacy
+    - generic [ref=e6]:
+      - paragraph [ref=e7]: By clicking "Accept All", you agree to the storing of cookies on your device to give you the most optimal experience using our website. We may also use cookies to enhance performance, analyse site usage and to personalize your experience.
+      - generic [ref=e8]:
+        - link "Manage Preferences" [ref=e10] [cursor=pointer]:
+          - /url: /en/cookies/#content
+        - generic [ref=e11]:
+          - button "Accept All" [ref=e12] [cursor=pointer]
+          - button "Only Essential" [ref=e13] [cursor=pointer]
+  - banner [ref=e14]:
+    - generic [ref=e16]:
+      - link "General Motors Careers" [ref=e18] [cursor=pointer]:
+        - /url: /en/
+        - img "General Motors Careers" [ref=e19]
+      - navigation [ref=e21]:
+        - list [ref=e23]:
+          - listitem [ref=e24]:
+            - link "Jobs" [ref=e25] [cursor=pointer]:
+              - /url: /en/jobs/
+          - listitem [ref=e26]:
+            - button "How We Hire" [ref=e27] [cursor=pointer]
+          - listitem [ref=e28]:
+            - button "Working at GM" [ref=e29] [cursor=pointer]
+          - listitem [ref=e30]:
+            - link "Benefits" [ref=e31] [cursor=pointer]:
+              - /url: /en/benefits/
+          - listitem [ref=e32]:
+            - button "Teams" [ref=e33] [cursor=pointer]
+          - listitem [ref=e34]:
+            - button "Locations" [ref=e35] [cursor=pointer]
+          - listitem [ref=e36]:
+            - button "Early Careers" [ref=e37] [cursor=pointer]
+          - listitem [ref=e38]:
+            - button "English" [ref=e39] [cursor=pointer]
+          - listitem [ref=e41]:
+            - link "Saved Jobs" [ref=e42] [cursor=pointer]:
+              - /url: /en/jobs/saved-jobs/
+              - img [ref=e43]
+              - generic [ref=e45]: Saved jobs
+              - generic [ref=e46]: "0"
+          - listitem [ref=e47]:
+            - link "Join Our Talent Network" [ref=e48] [cursor=pointer]:
+              - /url: https://flows.beamery.com/generalmotors/talcom/0
+  - generic [ref=e49]:
+    - generic [ref=e53]:
+      - heading "Page not found" [level=1] [ref=e54]
+      - paragraph [ref=e55]: 404 error
+    - main [ref=e56]:
+      - main [ref=e57]:
+        - heading "Page not found" [level=1] [ref=e59]
+        - article [ref=e60]:
+          - heading "Sorry, the page you requested could not be found" [level=2] [ref=e61]
+          - paragraph [ref=e62]: "This might be because:"
+          - list [ref=e63]:
+            - listitem [ref=e64]: You have typed the web address incorrectly, or
+            - listitem [ref=e65]: the page you were looking for may have been moved, updated or deleted.
+          - heading "Suggested jobs" [level=2] [ref=e66]
+          - paragraph [ref=e67]: "We found the following job vacancies that may be similar to what you were looking for:"
+          - list [ref=e68]:
+            - listitem [ref=e69]:
+              - link "Senior Software Developer" [ref=e70] [cursor=pointer]:
+                - /url: /en/jobs/jr-202601995/senior-software-developer/
+              - text: (Markham, Ontario)
+            - listitem [ref=e71]:
+              - link "Embedded Software Test Developer – Propulsion and Thermal Management - Co-Op" [ref=e72] [cursor=pointer]:
+                - /url: /en/jobs/jr-202607672/embedded-software-test-developer-propulsion-and-thermal-management-co-op/
+              - text: (Markham, Ontario plus 1 location)
+            - listitem [ref=e73]:
+              - link "AI Senior Software Developer" [ref=e74] [cursor=pointer]:
+                - /url: /en/jobs/jr-202518432/ai-senior-software-developer/
+              - text: (Austin, Texas plus 2 locations)
+            - listitem [ref=e75]:
+              - link "SAP Developer" [ref=e76] [cursor=pointer]:
+                - /url: /en/jobs/jr-202607027/sap-developer/
+              - text: (Limerick, Limerick)
+            - listitem [ref=e77]:
+              - link "Senior Full Stack Engineer" [ref=e78] [cursor=pointer]:
+                - /url: /en/jobs/jr-202522648/senior-full-stack-engineer/
+              - text: (Austin, Texas plus 1 location)
+          - heading "Did you mean...?" [level=2] [ref=e79]
+          - paragraph [ref=e80]: "We also found the following content pages that may be similar to what you were looking for:"
+          - list [ref=e81]:
+            - listitem [ref=e82]:
+              - link "A few minutes with Lucas Crea, GM software engineer and race fan" [ref=e83] [cursor=pointer]:
+                - /url: /en/gm-life-stories/employee-stories/a-few-minutes-with-lucas-crea-gm-software-engineer-and-race-fan/
+            - listitem [ref=e84]:
+              - 'link "A few minutes with Ben Beacock: Driving the next era of simulation at GM" [ref=e85] [cursor=pointer]':
+                - /url: /en/gm-life-stories/employee-stories/a-few-minutes-with-ben-beacock-driving-the-next-era-of-simulation-at-gm/
+            - listitem [ref=e86]:
+              - link "A few minutes with Simone Kennedy, software test engineer" [ref=e87] [cursor=pointer]:
+                - /url: /en/gm-life-stories/employee-stories/a-few-minutes-with-simone-kennedy-software-test-engineer/
+            - listitem [ref=e88]:
+              - link "Software" [ref=e89] [cursor=pointer]:
+                - /url: /en/teams/software/
+            - listitem [ref=e90]:
+              - link "A few minutes with GM software engineering exec Fraser Graham" [ref=e91] [cursor=pointer]:
+                - /url: /en/gm-life-stories/employee-stories/a-few-minutes-with-gm-software-engineering-exec-fraser-graham/
+          - heading "You may also try..." [level=2] [ref=e92]
+          - paragraph [ref=e93]: "If you still can't find what you want please try:"
+          - list [ref=e94]:
+            - listitem [ref=e95]:
+              - link "Jobs" [ref=e96] [cursor=pointer]:
+                - /url: /en/jobs/
+            - listitem [ref=e97]:
+              - link "Sitemap" [ref=e98] [cursor=pointer]:
+                - /url: /en/sitemap/
+            - listitem [ref=e99]:
+              - link "Home" [ref=e100] [cursor=pointer]:
+                - /url: /en/
+  - contentinfo [ref=e101]:
+    - generic [ref=e102]:
+      - img "General Motors Careers" [ref=e103]
+      - generic [ref=e104]:
+        - list [ref=e107]:
+          - listitem [ref=e108]:
+            - link "Facebook page (Opens in new window)" [ref=e109] [cursor=pointer]:
+              - /url: https://www.facebook.com/generalmotorscareers/
+              - img [ref=e110]
+          - listitem [ref=e112]:
+            - link "Twitter/X page (Opens in new window)" [ref=e113] [cursor=pointer]:
+              - /url: https://twitter.com/gm
+              - img [ref=e114]
+          - listitem [ref=e116]:
+            - link "LinkedIn page (Opens in new window)" [ref=e117] [cursor=pointer]:
+              - /url: https://www.linkedin.com/groups/2753851/
+              - img [ref=e118]
+          - listitem [ref=e120]:
+            - link "YouTube page (Opens in new window)" [ref=e121] [cursor=pointer]:
+              - /url: https://www.youtube.com/playlist?list=PLE45D6E9B243DA601
+              - img [ref=e122]
+          - listitem [ref=e124]:
+            - link "Instagram page (Opens in new window)" [ref=e125] [cursor=pointer]:
+              - /url: https://www.instagram.com/generalmotors/
+              - img [ref=e126]
+          - listitem [ref=e128]:
+            - link "Glassdoor page (Opens in new window)" [ref=e129] [cursor=pointer]:
+              - /url: https://www.glassdoor.com/Overview/Working-at-General-Motors-EI_IE279.11,25.htm
+              - img [ref=e130]
+        - list [ref=e133]:
+          - listitem [ref=e134]:
+            - link "GM.com" [ref=e135] [cursor=pointer]:
+              - /url: https://www.gm.com/
+          - listitem [ref=e136]:
+            - link "FAQ" [ref=e137] [cursor=pointer]:
+              - /url: /en/how-we-hire/faq/
+          - listitem [ref=e138]:
+            - link "Investors" [ref=e139] [cursor=pointer]:
+              - /url: https://investor.gm.com/
+          - listitem [ref=e140]:
+            - link "Dealers & Suppliers" [ref=e141] [cursor=pointer]:
+              - /url: https://www.gm.com/gm-brands
+          - listitem [ref=e142]:
+            - link "Press Room" [ref=e143] [cursor=pointer]:
+              - /url: http://media.gm.com/media/us/en/gm/news.html
+          - listitem [ref=e144]:
+            - link "People & Communities" [ref=e145] [cursor=pointer]:
+              - /url: /en/working-at-gm/people-communities/
+          - listitem [ref=e146]:
+            - link "Sitemap" [ref=e147] [cursor=pointer]:
+              - /url: /en/sitemap/
+        - list [ref=e149]:
+          - listitem [ref=e150]:
+            - link "Contact Us" [ref=e151] [cursor=pointer]:
+              - /url: https://www.gm.com/contact
+          - listitem [ref=e152]:
+            - link "User Guidelines" [ref=e153] [cursor=pointer]:
+              - /url: https://www.gm.com/user-guidelines.html
+          - listitem [ref=e154]:
+            - link "How We Hire" [ref=e155] [cursor=pointer]:
+              - /url: /en/how-we-hire/
+          - listitem [ref=e156]:
+            - link "Recruitment Scam Alerts" [ref=e157] [cursor=pointer]:
+              - /url: /en/how-we-hire/recruitment-scam-alerts/
+          - listitem [ref=e158]:
+            - link "Supply Chain Responsibility" [ref=e159] [cursor=pointer]:
+              - /url: https://www.gm.com/commitments/sustainability
+          - listitem [ref=e160]:
+            - link "Privacy Statement" [ref=e161] [cursor=pointer]:
+              - /url: /en/privacy/
+          - listitem [ref=e162]:
+            - link "Cookies Preferences" [ref=e163] [cursor=pointer]:
+              - /url: /en/cookies/
+          - listitem [ref=e164]:
+            - link "Copyright/Trademark" [ref=e165] [cursor=pointer]:
+              - /url: https://www.gm.com/copyright-trademark.html
+          - listitem [ref=e166]:
+            - link "Accessibility & Equal Opportunity Employer" [ref=e167] [cursor=pointer]:
+              - /url: /en/accessibility-equal-opportunity-employer/
+    - generic [ref=e170]:
+      - paragraph [ref=e172]: General Motors is committed to being an Equal Employment Opportunity Employer and offers opportunities to all job seekers, including individuals with disabilities, veterans, and disabled veterans. Please visit our Accessibility page if you need a reasonable accommodation to assist with your job search or application for employment. Only inquiries regarding assistance due to a disability will be returned through the reasonable accommodation process.
+      - generic [ref=e173]:
+        - paragraph [ref=e174]: © General Motors 2026. All rights reserved.
+        - paragraph [ref=e175]: Powered by Happydance.

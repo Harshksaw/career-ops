@@ -1,0 +1,20 @@
+- generic [active] [ref=e1]:
+  - dialog "cookieconsent" [ref=e2]:
+    - generic [ref=e4]:
+      - generic [ref=e5]: 🍪
+      - button "Dismiss" [ref=e7] [cursor=pointer]
+      - heading "Privacy Notice" [level=4] [ref=e8]
+      - paragraph [ref=e9]: This website uses cookies to improve your web experience. By using the site, you agree to the use of cookies.
+  - link "Wealthsimple logo" [ref=e12] [cursor=pointer]:
+    - /url: https://jobs.lever.co/wealthsimple
+    - img "Wealthsimple logo" [ref=e13]
+  - paragraph [ref=e19]: No job postings currently open. Check back later!
+  - generic [ref=e21]:
+    - paragraph [ref=e22]:
+      - link "Wealthsimple Home Page" [ref=e23] [cursor=pointer]:
+        - /url: https://wealthsimple.com
+    - paragraph [ref=e25]: We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.
+    - link "Jobs powered by Lever logo" [ref=e26] [cursor=pointer]:
+      - /url: https://www.lever.co/job-seeker-support/
+      - generic [ref=e27]: Jobs powered by
+      - img "Lever logo" [ref=e28]

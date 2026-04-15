@@ -1,0 +1,97 @@
+%% Harsh Saw — AI / ML / RAG Systems variant
+%% Target: Hugging Face, Cohere, Glean, Decagon, OpenAI, Together AI, Robinhood ML, Notion AI, Lambda
+%% 1-page. All experience kept. RAG/ML bullets lead each role.
+%% Compile: cd latex-cv && pdflatex harshsaw-ai.tex
+
+\documentclass[letterpaper,10pt]{article}
+\input{content/preamble}
+
+\begin{document}
+
+%---------- HEADER ----------
+\begin{center}
+    \textbf{\Huge \scshape Harsh Saw} \\ \vspace{1pt}
+    \small +1 (778) 583-2260 $|$ Kelowna, BC, Canada $|$
+    \href{mailto:mister.harshkumar@gmail.com}{\underline{mister.harshkumar@gmail.com}} $|$
+    \href{https://linkedin.com/in/harshsaw}{\underline{linkedin.com/in/harshsaw}} $|$
+    \href{https://github.com/harshsaw}{\underline{github.com/harshsaw}} $|$
+    \href{https://harshsaw.me}{\underline{harshsaw.me}}
+\end{center}
+
+%---------- SUMMARY ----------
+\section{Summary}
+\small{AI/ML engineer with 2+ years of internship experience shipping production RAG systems, LLM pipelines, and agentic AI workflows. Currently architecting semantic search and conversational AI at OmMuse using AWS Bedrock and MongoDB Vector Store; prior work spans vector embedding pipelines, ML-driven demand forecasting, and distributed backend services serving tens of thousands of users.}
+
+%---------- EDUCATION ----------
+\section{Education}
+  \resumeSubHeadingListStart
+    \resumeSubheading{Bachelor of Computer Information Systems}{Expected Dec 2026}{Okanagan College}{Kelowna, BC, Canada}
+  \resumeSubHeadingListEnd
+
+%---------- EXPERIENCE ----------
+\section{Experience}
+  \resumeSubHeadingListStart
+
+    \resumeSubheading{OmMuse}{Seattle, US (Remote)}{Software Engineer Intern}{Nov 2025 -- Present}
+      \resumeItemListStart
+        \resumeItem{Architecting AI-powered semantic search and natural language chat using a \textbf{RAG pipeline} (MongoDB Vector Store, \textbf{AWS Bedrock}), enabling producers to query 12K+ user platform with 18K+ tracks and 67 GB of audio conversationally.}
+        \resumeItem{Shipped features across a polyglot monorepo (\textbf{Go gRPC/protobuf, TypeScript/React, Python}) unified by Bazel, owning full AWS deployment --- S3, SQS, ECR, Docker, Pulumi IaC, Envoy proxy, and GitHub Actions CI/CD.}
+        \resumeItem{Engineered a cross-platform desktop uploader (Electron) with folder-sync (chokidar + SQLite WAL), parallelized S3 multipart uploads, OAuth 2.0 PKCE, and typed IPC bridge exposing 70+ gRPC methods to the renderer.}
+        \resumeItem{Built HubSpot CRM sync in \textbf{Go} --- async batch worker (sync.Map dedup, 30s flush, 100-user chunks) syncing live metrics across 8 API trigger points.}
+      \resumeItemListEnd
+
+    \resumeSubheading{MoreThinks Solutions Ltd.}{Burnaby, BC}{Full-Stack Developer Intern}{Jun 2025 -- Sept 2025}
+      \resumeItemListStart
+        \resumeItem{Engineered automated token generation and \textbf{vector embedding pipelines}, producing structured data consumed by ML recommendation services; delivered full-stack features via AWS EKS and API Gateway CI/CD.}
+      \resumeItemListEnd
+
+    \resumeSubheading{Bwisher Ltd.}{Remote}{Software Engineer Intern}{Dec 2024 -- Jun 2025}
+      \resumeItemListStart
+        \resumeItem{Built \textbf{FastAPI} services for customer behavior aggregation and \textbf{demand forecasting}, generating \textbf{ML-driven segmented targeting data} consumed by the Kafka pipeline to optimize offer personalization across 30K+ users.}
+        \resumeItem{Architected a multi-channel platform using \textbf{Apache Kafka} + BullMQ, orchestrating SMS/email/WhatsApp campaigns across \textbf{30K+ users} while feeding real-time CRM and analytics pipelines.}
+        \resumeItem{Designed idempotent NestJS + FastAPI microservices for payment/credit workflows with retry/exponential backoff; owned Jenkins, Kubernetes, Prometheus, and Grafana deployment stack.}
+      \resumeItemListEnd
+
+    \resumeSubheading{Jythu Ltd.}{Remote}{Full-Stack Developer Intern}{Jan 2024 -- Dec 2024}
+      \resumeItemListStart
+        \resumeItem{Built FFmpeg HLS streaming pipeline (S3/CloudFront + \textbf{SQS/Lambda/SNS}) cutting seek time \textbf{30s~$\to$~1.5s}, bandwidth \textbf{$-$70\%}; provisioned full AWS infra with Terraform and GitHub Actions for production apps serving 2K+ learners.}
+      \resumeItemListEnd
+
+  \resumeSubHeadingListEnd
+
+%---------- PROJECTS ----------
+\section{Projects}
+    \resumeSubHeadingListStart
+      \resumeProjectHeading
+          {\textbf{Document Intelligence Platform (RAG)} $|$ \emph{FastAPI, LangChain, Qdrant, Groq, Gemini, AWS ECS Fargate}}{\href{https://harshsaw.me}{\underline{Demo}} $|$ \href{https://github.com/harshsaw}{\underline{GitHub}}}
+          \resumeItemListStart
+            \resumeItem{Multi-tenant \textbf{RAG platform} with session-isolated \textbf{Qdrant} indexes; resilient LLM orchestration via \textbf{LangChain RunnableWithFallbacks} (Groq$\to$Gemini failover) with streaming retrieval, context-aware query rewriting, and SHA-256 idempotent ingestion.}
+            \resumeItem{Deployed to \textbf{AWS ECS Fargate} with GitHub Actions CI/CD; hybrid document chunking enabling semantic Q\&A over PDF, DOCX, and TXT at scale.}
+          \resumeItemListEnd
+      \resumeProjectHeading
+          {\textbf{CodeExpo --- Browser-Based IDE \& Sandbox} $|$ \emph{React, Node.js, Docker, Nginx, xterm.js, Socket.IO}}{\href{https://harshsaw.me}{\underline{Demo}} $|$ \href{https://github.com/harshsaw}{\underline{GitHub}}}
+          \resumeItemListStart
+            \resumeItem{Full-stack browser IDE with live terminal (xterm.js over WebSocket), real-time code execution, Socket.IO file sync, and Docker multi-stage containerized sandboxes per session.}
+          \resumeItemListEnd
+    \resumeSubHeadingListEnd
+
+%---------- SKILLS ----------
+\section{Technical Skills}
+ \begin{itemize}[leftmargin=0.15in, label={}]
+    \small{\item{
+     \textbf{Languages}{: Python, Go (Golang), TypeScript, JavaScript (ES6+), Bash} \\
+     \textbf{AI \& GenAI}{: LangChain, LangSmith, AutoGen, RAG, AWS Bedrock, FAISS, Qdrant, Pinecone, AstraDB} \\
+     \textbf{Backend \& Messaging}{: FastAPI, NestJS, Express, gRPC/Protobuf, Apache Kafka, BullMQ, GraphQL} \\
+     \textbf{Cloud \& DevOps}{: AWS (Bedrock, ECS, S3, SQS, Lambda), Docker, Kubernetes, Terraform, Pulumi, GitHub Actions} \\
+     \textbf{Databases}{: PostgreSQL, MongoDB, DynamoDB, Redis, MySQL, SurrealDB, SQLite} \\
+     \textbf{Frontend}{: React, Next.js, React Native, Qwik.js, Electron}
+    }}
+ \end{itemize}
+
+%---------- ACHIEVEMENTS ----------
+\section{Achievements}
+\begin{itemize}[leftmargin=0.15in]
+    \resumeItem{End-to-end stock prediction pipeline: \textbf{500 S\&P 500 constituents}, 5 yrs of 15-min bar data, XGBoost across 26 intraday horizons on \textbf{4x NVIDIA H100 GPUs} (DRAC) with warm-start retraining every 15 min. Top \textbf{2\%} freelancer on Freelancer.com (5-star, 25+ projects). Won inter-university hackathon.}
+\end{itemize}
+
+\end{document}

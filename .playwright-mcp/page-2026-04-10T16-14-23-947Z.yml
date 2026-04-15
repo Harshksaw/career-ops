@@ -1,0 +1,109 @@
+- generic [ref=e2]:
+  - list [ref=e4]:
+    - listitem [ref=e5]:
+      - link "Tonal" [ref=e6] [cursor=pointer]:
+        - /url: www.tonal.com
+        - img "Tonal" [ref=e7]
+    - listitem [ref=e8]:
+      - link "Back to Tonal’s Job Listings" [ref=e9] [cursor=pointer]:
+        - /url: /tonal
+        - img [ref=e10]
+    - listitem
+  - generic [ref=e12]:
+    - heading "Software Engineering Intern" [level=1] [ref=e14]
+    - generic [ref=e15]:
+      - generic [ref=e16]:
+        - generic [ref=e17]:
+          - heading "Location" [level=2] [ref=e18]
+          - paragraph [ref=e19]: Toronto, ON
+        - generic [ref=e20]:
+          - heading "Employment Type" [level=2] [ref=e21]
+          - paragraph [ref=e22]: Intern
+        - generic [ref=e23]:
+          - heading "Location Type" [level=2] [ref=e24]
+          - paragraph [ref=e25]: Hybrid
+        - generic [ref=e26]:
+          - heading "Department" [level=2] [ref=e27]
+          - paragraph [ref=e28]:
+            - generic [ref=e29]: Technology ›
+            - generic [ref=e30]: Software
+        - generic [ref=e31]:
+          - heading "Deadline to Apply" [level=2] [ref=e32]
+          - paragraph [ref=e33]: April 20, 2026 at 12:00 AM PDT
+        - generic [ref=e34]:
+          - heading "Compensation" [level=2] [ref=e35]
+          - list [ref=e36]:
+            - listitem [ref=e37]:
+              - generic [ref=e38]: CA$25 – CA$30 per hour
+      - generic [ref=e39]:
+        - tablist [ref=e40]:
+          - tab "Overview" [selected] [ref=e41] [cursor=pointer]
+          - tab "Application" [ref=e42] [cursor=pointer]
+        - tabpanel "Overview" [ref=e44]:
+          - generic [ref=e45]:
+            - paragraph [ref=e46]:
+              - strong [ref=e47]: Who We Are
+            - paragraph [ref=e48]: Tonal is the world’s first all-in-one home gym with a simply stunning design. It has completely revolutionized the fitness journey, with adaptive weight and coaching cues powered by advanced A.I. technology. We’ve united a diverse team of experts and decades of research to reinvent strength training, making it more efficient, more effective and more engaging. With this in mind, we want to bring that same innovative approach to the workplace. At Tonal, we continue our shift of emphasis by growing our instrumental team. We collectively weave our knowledge and creativity, as we redefine the future of fitness, and Power Progress for our members.
+            - paragraph [ref=e49]
+            - paragraph [ref=e50]:
+              - strong [ref=e51]: Overview
+            - paragraph [ref=e52]: Tonal is looking for a 2026 Summer Intern who is currently enrolled in a Bachelor’s program at a 4-year university and is interested in Software Engineering. You’ll be working in a fast-paced environment within the software team at Tonal. With the upcoming developments on our product roadmap. You’ll assist key stakeholders and provide support in these areas. You’ll bring a fresh perspective of academic knowledge and familiarity with emerging trends, helping to find innovative solutions while challenging existing methodologies.
+            - paragraph [ref=e53]
+            - paragraph [ref=e54]: This is a 12-16 week internship position based in Toronto, Ontario.
+            - paragraph [ref=e55]
+            - paragraph [ref=e56]:
+              - strong [ref=e57]: What You’ll Do
+            - list [ref=e58]:
+              - listitem [ref=e59]:
+                - paragraph [ref=e60]: Contribute to the execution of Tonal’s FY26 product roadmap through engineering and quality initiatives
+              - listitem [ref=e61]:
+                - paragraph [ref=e62]: Explore, prototype, and build automation solutions using modern AI-assisted development tools to improve test coverage and developer productivity
+              - listitem [ref=e63]:
+                - paragraph [ref=e64]: Collaborate with engineers and product teams to understand features and identify opportunities for automation
+              - listitem [ref=e65]:
+                - paragraph [ref=e66]: Leverage AI to accelerate test creation, validation strategies, and issue triaging across the software development lifecycle
+              - listitem [ref=e67]:
+                - paragraph [ref=e68]: Participate in team meetings, sprint ceremonies, and weekly brainstorming sessions
+              - listitem [ref=e69]:
+                - paragraph [ref=e70]: Prepare reports or presentations and make recommendations to key stakeholders
+              - listitem [ref=e71]:
+                - paragraph [ref=e72]: Communicate and collaborate with team members on a daily basis
+            - paragraph [ref=e73]
+            - paragraph [ref=e74]:
+              - strong [ref=e75]: Who You Are
+            - list [ref=e76]:
+              - listitem [ref=e77]:
+                - paragraph [ref=e78]: Currently enrolled in a Bachelor’s degree (rising junior or senior), major in Engineering or related field
+              - listitem [ref=e79]:
+                - paragraph [ref=e80]: Comfortable writing code in at least one programming language
+              - listitem [ref=e81]:
+                - paragraph [ref=e82]: Highly resourceful and proactive in using AI tools (e.g., Codex, Claude Code, or similar) to learn, build, and tackle engineering challenges
+              - listitem [ref=e83]:
+                - paragraph [ref=e84]: Strong problem-solving ability to break down complex problems and iterate quickly
+              - listitem [ref=e85]:
+                - paragraph [ref=e86]: Strong written and verbal communication skills, including email, slack, and presentations
+              - listitem [ref=e87]:
+                - paragraph [ref=e88]: Driven to learn new skills and be adaptable in a corporate environment
+            - list [ref=e89]:
+              - listitem [ref=e90]:
+                - paragraph [ref=e91]: Passionate about health, fitness, or consumer hardware
+              - listitem [ref=e92]:
+                - paragraph [ref=e93]: Thrives in a fast paced environment
+            - paragraph [ref=e94]: At Tonal, we believe that the unique and varied lived experiences of our teammates contribute to our overall strength. We don’t just appreciate differences, we celebrate them, and we always seek people that represent a wide variety of backgrounds. We’re dedicated to adding new perspectives to the team and designing employee experiences that contribute to your growth as much as you do to ours. If your experience aligns with what we’re looking for (even if you don’t check every single box), send us your application. We would love to hear from you!
+            - paragraph [ref=e95]
+            - paragraph [ref=e96]: Tonal is committed to meeting the diverse needs of people with disabilities in a timely manner that is consistent with the principles of independence, dignity, integration, and equality of opportunity. Should you have any accommodation requests, please reach out to us via our confidential email, accessibility@tonal.com. All requests will be addressed and responded to in accordance with Tonal’s Accessibility Policy and local legislation.
+          - link "Apply for this Job" [ref=e97] [cursor=pointer]:
+            - /url: /tonal/0b7e9f3c-7658-4fef-8273-c7f12957c6cb/application
+            - button "Apply for this Job" [ref=e98]
+  - contentinfo [ref=e99]:
+    - link "Learn more about Ashby" [ref=e100] [cursor=pointer]:
+      - /url: https://www.ashbyhq.com
+      - generic [ref=e101]: Powered by
+      - img "Ashby" [ref=e102]
+    - paragraph [ref=e108]:
+      - link "Privacy Policy" [ref=e109] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/privacy
+      - link "Security" [ref=e110] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/security
+      - link "Vulnerability Disclosure" [ref=e111] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/disclosure

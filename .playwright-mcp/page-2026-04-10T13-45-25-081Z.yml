@@ -1,0 +1,250 @@
+- generic [active] [ref=e1]:
+  - main [ref=e2]:
+    - generic [ref=e3]:
+      - img "Tenstorrent University Jobs Logo" [ref=e5]
+      - heading "Current openings at Tenstorrent University Jobs" [level=1] [ref=e6]
+      - generic [ref=e8]:
+        - generic [ref=e9]:
+          - generic [ref=e11]:
+            - generic [ref=e12]: Search
+            - textbox "Search" [ref=e13]
+          - generic [ref=e15]:
+            - generic [ref=e16]: Department
+            - generic [ref=e17]:
+              - log [ref=e19]
+              - generic [ref=e21]:
+                - generic [ref=e22]:
+                  - generic [ref=e23]: Select...
+                  - combobox "Department" [ref=e25]
+                - button "Toggle flyout" [ref=e27] [cursor=pointer]:
+                  - img [ref=e28]
+          - generic [ref=e31]:
+            - generic [ref=e32]: Office
+            - generic [ref=e33]:
+              - log [ref=e35]
+              - generic [ref=e37]:
+                - generic [ref=e38]:
+                  - generic [ref=e39]: Select...
+                  - combobox "Office" [ref=e41]
+                - button "Toggle flyout" [ref=e43] [cursor=pointer]:
+                  - img [ref=e44]
+        - generic [ref=e46]:
+          - heading "34 jobs" [level=2] [ref=e47]
+          - generic [ref=e49]:
+            - heading "University" [level=3] [ref=e50]
+            - table [ref=e52]:
+              - rowgroup:
+                - row "Job":
+                  - columnheader "Job" [ref=e53]:
+                    - paragraph [ref=e54]: Job
+              - rowgroup [ref=e55]:
+                - row "Acceleration Kernel Developer Intern Toronto, Ontario, Canada" [ref=e56]:
+                  - cell "Acceleration Kernel Developer Intern Toronto, Ontario, Canada" [ref=e57]:
+                    - link "Acceleration Kernel Developer Intern Toronto, Ontario, Canada" [ref=e58] [cursor=pointer]:
+                      - /url: https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4668120007
+                      - paragraph [ref=e59]: Acceleration Kernel Developer Intern
+                      - paragraph [ref=e60]: Toronto, Ontario, Canada
+                - row "AI Compiler Software Intern (PEY) Toronto, Ontario, Canada" [ref=e61]:
+                  - cell "AI Compiler Software Intern (PEY) Toronto, Ontario, Canada" [ref=e62]:
+                    - link "AI Compiler Software Intern (PEY) Toronto, Ontario, Canada" [ref=e63] [cursor=pointer]:
+                      - /url: https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4873659007
+                      - paragraph [ref=e64]: AI Compiler Software Intern (PEY)
+                      - paragraph [ref=e65]: Toronto, Ontario, Canada
+                - row "AI Hardware Design and Verification Internship Belgrade, Serbia" [ref=e66]:
+                  - cell "AI Hardware Design and Verification Internship Belgrade, Serbia" [ref=e67]:
+                    - link "AI Hardware Design and Verification Internship Belgrade, Serbia" [ref=e68] [cursor=pointer]:
+                      - /url: https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4594654007
+                      - paragraph [ref=e69]: AI Hardware Design and Verification Internship
+                      - paragraph [ref=e70]: Belgrade, Serbia
+                - row "Analog Design Automation Intern Austin, Texas, United States; Boston, Massachusetts, United States; North America; Santa Clara, California, United States" [ref=e71]:
+                  - cell "Analog Design Automation Intern Austin, Texas, United States; Boston, Massachusetts, United States; North America; Santa Clara, California, United States" [ref=e72]:
+                    - link "Analog Design Automation Intern Austin, Texas, United States; Boston, Massachusetts, United States; North America; Santa Clara, California, United States" [ref=e73] [cursor=pointer]:
+                      - /url: https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5042441007
+                      - paragraph [ref=e74]: Analog Design Automation Intern
+                      - paragraph [ref=e75]: Austin, Texas, United States; Boston, Massachusetts, United States; North America; Santa Clara, California, United States
+                - row "Chiplet Security Research Intern Santa Clara, California, United States" [ref=e76]:
+                  - cell "Chiplet Security Research Intern Santa Clara, California, United States" [ref=e77]:
+                    - link "Chiplet Security Research Intern Santa Clara, California, United States" [ref=e78] [cursor=pointer]:
+                      - /url: https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4955926007
+                      - paragraph [ref=e79]: Chiplet Security Research Intern
+                      - paragraph [ref=e80]: Santa Clara, California, United States
+                - row "CPU Architecture Intern North America" [ref=e81]:
+                  - cell "CPU Architecture Intern North America" [ref=e82]:
+                    - link "CPU Architecture Intern North America" [ref=e83] [cursor=pointer]:
+                      - /url: https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4955782007
+                      - paragraph [ref=e84]: CPU Architecture Intern
+                      - paragraph [ref=e85]: North America
+                - row "CPU Core Performance Verification Intern - CPU/AI Hardware Austin, Texas, United States" [ref=e86]:
+                  - cell "CPU Core Performance Verification Intern - CPU/AI Hardware Austin, Texas, United States" [ref=e87]:
+                    - link "CPU Core Performance Verification Intern - CPU/AI Hardware Austin, Texas, United States" [ref=e88] [cursor=pointer]:
+                      - /url: https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4501134007
+                      - paragraph [ref=e89]: CPU Core Performance Verification Intern - CPU/AI Hardware
+                      - paragraph [ref=e90]: Austin, Texas, United States
+                - row "Data Movement Architecture Intern Austin, Texas, United States; Fort Collins, Colorado, United States; North America; Santa Clara, California, United States" [ref=e91]:
+                  - cell "Data Movement Architecture Intern Austin, Texas, United States; Fort Collins, Colorado, United States; North America; Santa Clara, California, United States" [ref=e92]:
+                    - link "Data Movement Architecture Intern Austin, Texas, United States; Fort Collins, Colorado, United States; North America; Santa Clara, California, United States" [ref=e93] [cursor=pointer]:
+                      - /url: https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4999339007
+                      - paragraph [ref=e94]: Data Movement Architecture Intern
+                      - paragraph [ref=e95]: Austin, Texas, United States; Fort Collins, Colorado, United States; North America; Santa Clara, California, United States
+                - row "Design Verification Engineer, Intern Boston, Massachusetts, United States" [ref=e96]:
+                  - cell "Design Verification Engineer, Intern Boston, Massachusetts, United States" [ref=e97]:
+                    - link "Design Verification Engineer, Intern Boston, Massachusetts, United States" [ref=e98] [cursor=pointer]:
+                      - /url: https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4873756007
+                      - paragraph [ref=e99]: Design Verification Engineer, Intern
+                      - paragraph [ref=e100]: Boston, Massachusetts, United States
+                - row "Design Verification Intern -RISCV CPU Austin, Texas, United States" [ref=e101]:
+                  - cell "Design Verification Intern -RISCV CPU Austin, Texas, United States" [ref=e102]:
+                    - link "Design Verification Intern -RISCV CPU Austin, Texas, United States" [ref=e103] [cursor=pointer]:
+                      - /url: https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4501100007
+                      - paragraph [ref=e104]: Design Verification Intern -RISCV CPU
+                      - paragraph [ref=e105]: Austin, Texas, United States
+                - row "Design Verification Software Intern North America" [ref=e106]:
+                  - cell "Design Verification Software Intern North America" [ref=e107]:
+                    - link "Design Verification Software Intern North America" [ref=e108] [cursor=pointer]:
+                      - /url: https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4522665007
+                      - paragraph [ref=e109]: Design Verification Software Intern
+                      - paragraph [ref=e110]: North America
+                - row "Formal Verification Intern North America" [ref=e111]:
+                  - cell "Formal Verification Intern North America" [ref=e112]:
+                    - link "Formal Verification Intern North America" [ref=e113] [cursor=pointer]:
+                      - /url: https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4868622007
+                      - paragraph [ref=e114]: Formal Verification Intern
+                      - paragraph [ref=e115]: North America
+                - row "Inference Server – Product Software Intern Belgrade, Serbia" [ref=e116]:
+                  - cell "Inference Server – Product Software Intern Belgrade, Serbia" [ref=e117]:
+                    - link "Inference Server – Product Software Intern Belgrade, Serbia" [ref=e118] [cursor=pointer]:
+                      - /url: https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5065140007
+                      - paragraph [ref=e119]: Inference Server – Product Software Intern
+                      - paragraph [ref=e120]: Belgrade, Serbia
+                - row "Intern, Physical Design Engineer - Chiplets Santa Clara, California, United States" [ref=e121]:
+                  - cell "Intern, Physical Design Engineer - Chiplets Santa Clara, California, United States" [ref=e122]:
+                    - link "Intern, Physical Design Engineer - Chiplets Santa Clara, California, United States" [ref=e123] [cursor=pointer]:
+                      - /url: https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4961094007
+                      - paragraph [ref=e124]: Intern, Physical Design Engineer - Chiplets
+                      - paragraph [ref=e125]: Santa Clara, California, United States
+                - row "Intern, Scaleout Software (Fabric) Toronto, Ontario, Canada" [ref=e126]:
+                  - cell "Intern, Scaleout Software (Fabric) Toronto, Ontario, Canada" [ref=e127]:
+                    - link "Intern, Scaleout Software (Fabric) Toronto, Ontario, Canada" [ref=e128] [cursor=pointer]:
+                      - /url: https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4972015007
+                      - paragraph [ref=e129]: Intern, Scaleout Software (Fabric)
+                      - paragraph [ref=e130]: Toronto, Ontario, Canada
+                - row "Intern Software Engineer – Foundation SW Engineering Belgrade, Serbia" [ref=e131]:
+                  - cell "Intern Software Engineer – Foundation SW Engineering Belgrade, Serbia" [ref=e132]:
+                    - link "Intern Software Engineer – Foundation SW Engineering Belgrade, Serbia" [ref=e133] [cursor=pointer]:
+                      - /url: https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4668185007
+                      - paragraph [ref=e134]: Intern Software Engineer – Foundation SW Engineering
+                      - paragraph [ref=e135]: Belgrade, Serbia
+                - row "IP Design Verification - PEY Canada; North America" [ref=e136]:
+                  - cell "IP Design Verification - PEY Canada; North America" [ref=e137]:
+                    - link "IP Design Verification - PEY Canada; North America" [ref=e138] [cursor=pointer]:
+                      - /url: https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5042453007
+                      - paragraph [ref=e139]: IP Design Verification - PEY
+                      - paragraph [ref=e140]: Canada; North America
+                - row "IP Product Operations Intern Canada; United States" [ref=e141]:
+                  - cell "IP Product Operations Intern Canada; United States" [ref=e142]:
+                    - link "IP Product Operations Intern Canada; United States" [ref=e143] [cursor=pointer]:
+                      - /url: https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4530843007
+                      - paragraph [ref=e144]: IP Product Operations Intern
+                      - paragraph [ref=e145]: Canada; United States
+                - row "IT Administrator Intern Toronto, Ontario, Canada" [ref=e146]:
+                  - cell "IT Administrator Intern Toronto, Ontario, Canada" [ref=e147]:
+                    - link "IT Administrator Intern Toronto, Ontario, Canada" [ref=e148] [cursor=pointer]:
+                      - /url: https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4527157007
+                      - paragraph [ref=e149]: IT Administrator Intern
+                      - paragraph [ref=e150]: Toronto, Ontario, Canada
+                - row "Machine Learning Applications & Benchmarking Intern Santa Clara, California, United States" [ref=e151]:
+                  - cell "Machine Learning Applications & Benchmarking Intern Santa Clara, California, United States" [ref=e152]:
+                    - link "Machine Learning Applications & Benchmarking Intern Santa Clara, California, United States" [ref=e153] [cursor=pointer]:
+                      - /url: https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4532863007
+                      - paragraph [ref=e154]: Machine Learning Applications & Benchmarking Intern
+                      - paragraph [ref=e155]: Santa Clara, California, United States
+                - row "Machine Learning for Physical Design Intern - CPU/AI Hardware Austin, Texas, United States" [ref=e156]:
+                  - cell "Machine Learning for Physical Design Intern - CPU/AI Hardware Austin, Texas, United States" [ref=e157]:
+                    - link "Machine Learning for Physical Design Intern - CPU/AI Hardware Austin, Texas, United States" [ref=e158] [cursor=pointer]:
+                      - /url: https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4501164007
+                      - paragraph [ref=e159]: Machine Learning for Physical Design Intern - CPU/AI Hardware
+                      - paragraph [ref=e160]: Austin, Texas, United States
+                - row "Machine Learning for Physical Design Intern - CPU/AI Hardware Santa Clara, California, United States" [ref=e161]:
+                  - cell "Machine Learning for Physical Design Intern - CPU/AI Hardware Santa Clara, California, United States" [ref=e162]:
+                    - link "Machine Learning for Physical Design Intern - CPU/AI Hardware Santa Clara, California, United States" [ref=e163] [cursor=pointer]:
+                      - /url: https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4968215007
+                      - paragraph [ref=e164]: Machine Learning for Physical Design Intern - CPU/AI Hardware
+                      - paragraph [ref=e165]: Santa Clara, California, United States
+                - row "Machine Learning Intern, AI Compiler - Model Training (Serbia) Belgrade, Serbia" [ref=e166]:
+                  - cell "Machine Learning Intern, AI Compiler - Model Training (Serbia) Belgrade, Serbia" [ref=e167]:
+                    - link "Machine Learning Intern, AI Compiler - Model Training (Serbia) Belgrade, Serbia" [ref=e168] [cursor=pointer]:
+                      - /url: https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5076959007
+                      - paragraph [ref=e169]: Machine Learning Intern, AI Compiler - Model Training (Serbia)
+                      - paragraph [ref=e170]: Belgrade, Serbia
+                - row "Memory Architecture Intern Korea" [ref=e171]:
+                  - cell "Memory Architecture Intern Korea" [ref=e172]:
+                    - link "Memory Architecture Intern Korea" [ref=e173] [cursor=pointer]:
+                      - /url: https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5038984007
+                      - paragraph [ref=e174]: Memory Architecture Intern
+                      - paragraph [ref=e175]: Korea
+                - row "ML Models Implementation & Performance Optimization, Intern (Serbia) Belgrade, Serbia" [ref=e176]:
+                  - cell "ML Models Implementation & Performance Optimization, Intern (Serbia) Belgrade, Serbia" [ref=e177]:
+                    - link "ML Models Implementation & Performance Optimization, Intern (Serbia) Belgrade, Serbia" [ref=e178] [cursor=pointer]:
+                      - /url: https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5082990007
+                      - paragraph [ref=e179]: ML Models Implementation & Performance Optimization, Intern (Serbia)
+                      - paragraph [ref=e180]: Belgrade, Serbia
+                - row "Models Infra - Product Software Intern (Serbia) Belgrade, Serbia" [ref=e181]:
+                  - cell "Models Infra - Product Software Intern (Serbia) Belgrade, Serbia" [ref=e182]:
+                    - link "Models Infra - Product Software Intern (Serbia) Belgrade, Serbia" [ref=e183] [cursor=pointer]:
+                      - /url: https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5082997007
+                      - paragraph [ref=e184]: Models Infra - Product Software Intern (Serbia)
+                      - paragraph [ref=e185]: Belgrade, Serbia
+                - row "Physical Design Intern - CPU/AI Hardware Austin, Texas, United States; Santa Clara, California, United States" [ref=e186]:
+                  - cell "Physical Design Intern - CPU/AI Hardware Austin, Texas, United States; Santa Clara, California, United States" [ref=e187]:
+                    - link "Physical Design Intern - CPU/AI Hardware Austin, Texas, United States; Santa Clara, California, United States" [ref=e188] [cursor=pointer]:
+                      - /url: https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4526301007
+                      - paragraph [ref=e189]: Physical Design Intern - CPU/AI Hardware
+                      - paragraph [ref=e190]: Austin, Texas, United States; Santa Clara, California, United States
+                - row "Release Engineer Intern Toronto, Ontario, Canada" [ref=e191]:
+                  - cell "Release Engineer Intern Toronto, Ontario, Canada" [ref=e192]:
+                    - link "Release Engineer Intern Toronto, Ontario, Canada" [ref=e193] [cursor=pointer]:
+                      - /url: https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4557362007
+                      - paragraph [ref=e194]: Release Engineer Intern
+                      - paragraph [ref=e195]: Toronto, Ontario, Canada
+                - row "RISC-V CPU Microarchitecture / RTL Intern Santa Clara, California, United States" [ref=e196]:
+                  - cell "RISC-V CPU Microarchitecture / RTL Intern Santa Clara, California, United States" [ref=e197]:
+                    - link "RISC-V CPU Microarchitecture / RTL Intern Santa Clara, California, United States" [ref=e198] [cursor=pointer]:
+                      - /url: https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4970942007
+                      - paragraph [ref=e199]: RISC-V CPU Microarchitecture / RTL Intern
+                      - paragraph [ref=e200]: Santa Clara, California, United States
+                - row "RTL Design Intern - CPU Hardware Austin, Texas, United States" [ref=e201]:
+                  - cell "RTL Design Intern - CPU Hardware Austin, Texas, United States" [ref=e202]:
+                    - link "RTL Design Intern - CPU Hardware Austin, Texas, United States" [ref=e203] [cursor=pointer]:
+                      - /url: https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4501108007
+                      - paragraph [ref=e204]: RTL Design Intern - CPU Hardware
+                      - paragraph [ref=e205]: Austin, Texas, United States
+                - row "Software Engineering Intern, Kernel Optimization (Serbia) Belgrade, Serbia" [ref=e206]:
+                  - cell "Software Engineering Intern, Kernel Optimization (Serbia) Belgrade, Serbia" [ref=e207]:
+                    - link "Software Engineering Intern, Kernel Optimization (Serbia) Belgrade, Serbia" [ref=e208] [cursor=pointer]:
+                      - /url: https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5096351007
+                      - paragraph [ref=e209]: Software Engineering Intern, Kernel Optimization (Serbia)
+                      - paragraph [ref=e210]: Belgrade, Serbia
+                - row "Software Engineer Intern, AI Compiler (Serbia) Belgrade, Serbia" [ref=e211]:
+                  - cell "Software Engineer Intern, AI Compiler (Serbia) Belgrade, Serbia" [ref=e212]:
+                    - link "Software Engineer Intern, AI Compiler (Serbia) Belgrade, Serbia" [ref=e213] [cursor=pointer]:
+                      - /url: https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5080887007
+                      - paragraph [ref=e214]: Software Engineer Intern, AI Compiler (Serbia)
+                      - paragraph [ref=e215]: Belgrade, Serbia
+                - row "Software Intern - AI Compilers Santa Clara, California, United States" [ref=e216]:
+                  - cell "Software Intern - AI Compilers Santa Clara, California, United States" [ref=e217]:
+                    - link "Software Intern - AI Compilers Santa Clara, California, United States" [ref=e218] [cursor=pointer]:
+                      - /url: https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4501189007
+                      - paragraph [ref=e219]: Software Intern - AI Compilers
+                      - paragraph [ref=e220]: Santa Clara, California, United States
+                - row "Software Intern - AI Compilers Austin, Texas, United States" [ref=e221]:
+                  - cell "Software Intern - AI Compilers Austin, Texas, United States" [ref=e222]:
+                    - link "Software Intern - AI Compilers Austin, Texas, United States" [ref=e223] [cursor=pointer]:
+                      - /url: https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4968219007
+                      - paragraph [ref=e224]: Software Intern - AI Compilers
+                      - paragraph [ref=e225]: Austin, Texas, United States
+  - contentinfo [ref=e226]:
+    - generic [ref=e227]:
+      - paragraph [ref=e228]: Powered by
+      - link "Greenhouse logo" [ref=e229] [cursor=pointer]:
+        - /url: https://www.greenhouse.com
+        - img "Greenhouse logo" [ref=e230]

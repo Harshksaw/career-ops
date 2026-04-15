@@ -1,0 +1,30 @@
+[     389ms] [LOG] JQMIGRATE: Migrate is installed with logging active, version 3.3.1 @ https://tbcdn.talentbrew.com/bundles/jquery-client.js:18
+[     436ms] [WARNING] JQMIGRATE: jQuery.fn.focusout() event shorthand is deprecated @ https://tbcdn.talentbrew.com/bundles/jquery-client.js:18
+[     437ms] [LOG] %c TabCordion v1.8 in use.  background: #6e00ee; color: #fff @ https://tbcdn.talentbrew.com/company/4832/js/61181-GST.min.js:8
+[     437ms] [LOG] 107.969 @ https://tbcdn.talentbrew.com/company/4832/js/61181-GST.min.js:0
+[     437ms] [LOG] 107.969 @ https://tbcdn.talentbrew.com/company/4832/js/61181-GST.min.js:0
+[     437ms] [LOG] 215.938 @ https://tbcdn.talentbrew.com/company/4832/js/61181-GST.min.js:0
+[     437ms] [LOG] 107.969 @ https://tbcdn.talentbrew.com/company/4832/js/61181-GST.min.js:0
+[     437ms] [WARNING] JQMIGRATE: jQuery.fn.click() event shorthand is deprecated @ https://tbcdn.talentbrew.com/bundles/jquery-client.js:18
+[     493ms] [LOG] %cMagicBullet%cv2.2 background: #2d2d2d; color: #fff; padding: 6px 10px; border-radius: 16px 0 0 16px; font-weight: 600; background: #6e00ee; color: #fff; padding: 6px 10px; border-radius: 0 16px 16px 0; font-weight: 600; @ https://services.tmpwebeng.com/magicbullet/init.js:26
+[     500ms] [LOG] %cMagicBullet: A11y%cv2.0 background: #2d2d2d; color: #fff; padding: 6px 10px; border-radius: 16px 0 0 16px; font-weight: 600; background: #6e00ee; color: #fff; padding: 6px 10px; border-radius: 0 16px 16px 0; font-weight: 600; @ https://services.tmpwebeng.com/magicbullet/a11y/init.js:43
+[     500ms] [LOG] %cMagicBullet: A11y%cStatic Scripts ✔ background: #2d2d2d; color: #fff; padding: 6px 10px; border-radius: 16px 0 0 16px; font-weight: 600; background: #228B22; color: #fff; padding: 6px 10px; border-radius: 0 16px 16px 0; font-weight: 600; @ https://services.tmpwebeng.com/magicbullet/a11y/init.js:165
+[     501ms] [LOG] %cMagicBullet: A11y%cDynamic Scripts ✔ background: #2d2d2d; color: #fff; padding: 6px 10px; border-radius: 16px 0 0 16px; font-weight: 600; background: #228B22; color: #fff; padding: 6px 10px; border-radius: 0 16px 16px 0; font-weight: 600; @ https://services.tmpwebeng.com/magicbullet/a11y/init.js:143
+[    1503ms] [LOG] %cMagicBullet: A11y%cDynamic Scripts ✔ background: #2d2d2d; color: #fff; padding: 6px 10px; border-radius: 16px 0 0 16px; font-weight: 600; background: #228B22; color: #fff; padding: 6px 10px; border-radius: 0 16px 16px 0; font-weight: 600; @ https://services.tmpwebeng.com/magicbullet/a11y/init.js:143
+[    6799ms] [LOG] %cMagicBullet: A11y%cDynamic Scripts ✔ background: #2d2d2d; color: #fff; padding: 6px 10px; border-radius: 16px 0 0 16px; font-weight: 600; background: #228B22; color: #fff; padding: 6px 10px; border-radius: 0 16px 16px 0; font-weight: 600; @ https://services.tmpwebeng.com/magicbullet/a11y/init.js:143
+[  416984ms] [LOG] JQMIGRATE: Migrate is installed with logging active, version 3.3.1 @ https://tbcdn.talentbrew.com/bundles/jquery-client.js:18
+[  417000ms] [WARNING] JQMIGRATE: jQuery.fn.focusout() event shorthand is deprecated @ https://tbcdn.talentbrew.com/bundles/jquery-client.js:18
+[  417000ms] [LOG] %c TabCordion v1.8 in use.  background: #6e00ee; color: #fff @ https://tbcdn.talentbrew.com/company/4832/js/61181-GST.min.js:8
+[  417001ms] [LOG] 107.969 @ https://tbcdn.talentbrew.com/company/4832/js/61181-GST.min.js:0
+[  417001ms] [LOG] 107.969 @ https://tbcdn.talentbrew.com/company/4832/js/61181-GST.min.js:0
+[  417001ms] [LOG] 215.938 @ https://tbcdn.talentbrew.com/company/4832/js/61181-GST.min.js:0
+[  417001ms] [LOG] 107.969 @ https://tbcdn.talentbrew.com/company/4832/js/61181-GST.min.js:0
+[  417001ms] [WARNING] JQMIGRATE: jQuery.fn.click() event shorthand is deprecated @ https://tbcdn.talentbrew.com/bundles/jquery-client.js:18
+[  417126ms] [LOG] %cMagicBullet%cv2.2 background: #2d2d2d; color: #fff; padding: 6px 10px; border-radius: 16px 0 0 16px; font-weight: 600; background: #6e00ee; color: #fff; padding: 6px 10px; border-radius: 0 16px 16px 0; font-weight: 600; @ https://services.tmpwebeng.com/magicbullet/init.js:26
+[  417133ms] [LOG] %cMagicBullet: A11y%cv2.0 background: #2d2d2d; color: #fff; padding: 6px 10px; border-radius: 16px 0 0 16px; font-weight: 600; background: #6e00ee; color: #fff; padding: 6px 10px; border-radius: 0 16px 16px 0; font-weight: 600; @ https://services.tmpwebeng.com/magicbullet/a11y/init.js:43
+[  417133ms] [LOG] %cMagicBullet: A11y%cStatic Scripts ✔ background: #2d2d2d; color: #fff; padding: 6px 10px; border-radius: 16px 0 0 16px; font-weight: 600; background: #228B22; color: #fff; padding: 6px 10px; border-radius: 0 16px 16px 0; font-weight: 600; @ https://services.tmpwebeng.com/magicbullet/a11y/init.js:165
+[  417134ms] [LOG] %cMagicBullet: A11y%cDynamic Scripts ✔ background: #2d2d2d; color: #fff; padding: 6px 10px; border-radius: 16px 0 0 16px; font-weight: 600; background: #228B22; color: #fff; padding: 6px 10px; border-radius: 0 16px 16px 0; font-weight: 600; @ https://services.tmpwebeng.com/magicbullet/a11y/init.js:143
+[  418135ms] [LOG] %cMagicBullet: A11y%cDynamic Scripts ✔ background: #2d2d2d; color: #fff; padding: 6px 10px; border-radius: 16px 0 0 16px; font-weight: 600; background: #228B22; color: #fff; padding: 6px 10px; border-radius: 0 16px 16px 0; font-weight: 600; @ https://services.tmpwebeng.com/magicbullet/a11y/init.js:143
+[  418333ms] [WARNING] JQMIGRATE: jQuery.fn.bind() is deprecated @ https://tbcdn.talentbrew.com/bundles/jquery-client.js:18
+[  419225ms] [LOG] %cMagicBullet: A11y%cDynamic Scripts ✔ background: #2d2d2d; color: #fff; padding: 6px 10px; border-radius: 16px 0 0 16px; font-weight: 600; background: #228B22; color: #fff; padding: 6px 10px; border-radius: 0 16px 16px 0; font-weight: 600; @ https://services.tmpwebeng.com/magicbullet/a11y/init.js:143
+[  625939ms] [LOG] payload  {isPartial: false, survaleID: 4600, data: Object} @ https://s.survale.com/_next/static/chunks/2ceff9125e393a13.js:5

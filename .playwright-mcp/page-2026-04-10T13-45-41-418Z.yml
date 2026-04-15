@@ -1,0 +1,12 @@
+- generic [active] [ref=e1]:
+  - main [ref=e2]:
+    - generic [ref=e3]:
+      - img "PlayStation Waterloo Co-Op Logo" [ref=e5]
+      - heading "Current openings at PlayStation Co-Op 2026" [level=1] [ref=e6]
+      - paragraph [ref=e11]: There are no current openings.
+  - contentinfo [ref=e12]:
+    - generic [ref=e13]:
+      - paragraph [ref=e14]: Powered by
+      - link "Greenhouse logo" [ref=e15] [cursor=pointer]:
+        - /url: https://www.greenhouse.com
+        - img "Greenhouse logo" [ref=e16]

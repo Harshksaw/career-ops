@@ -1,0 +1,146 @@
+%% career-ops LaTeX CV template
+%% Matches Harsh Saw's TechResume format exactly.
+%% Compile with: pdflatex cv.tex  OR upload to Overleaf
+%%
+%% PLACEHOLDERS (replaced per job):
+%%   {{SUMMARY}}        — tailored professional summary
+%%   {{EXPERIENCE}}     — tailored experience blocks
+%%   {{SKILLS_EXTRA}}   — any extra skill lines (optional)
+
+\documentclass[letterpaper,11pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{fancyhdr}
+\usepackage[english]{babel}
+\usepackage{tabularx}
+\usepackage{microtype}
+\input{glyphtounicode}
+
+\pagestyle{fancy}
+\fancyhf{}
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% Margins
+\addtolength{\oddsidemargin}{-0.5in}
+\addtolength{\evensidemargin}{-0.5in}
+\addtolength{\textwidth}{1in}
+\addtolength{\topmargin}{-.5in}
+\addtolength{\textheight}{1.0in}
+
+\urlstyle{same}
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+% Section formatting
+\titleformat{\section}{
+  \vspace{-4pt}\scshape\raggedright\large
+}{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
+
+\pdfgentounicode=1
+
+% Custom commands
+\newcommand{\resumeItem}[1]{
+  \item\small{#1 \vspace{-2pt}}
+}
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-2pt}\item
+    \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & #2 \\
+      \textit{\small#3} & \textit{\small #4} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeProjectHeading}[2]{
+    \item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \small#1 & #2 \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0.15in, label={}]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+%----------------------------
+\begin{document}
+
+%---------- HEADER ----------
+\begin{center}
+    \textbf{\Huge \scshape Harsh Saw} \\ \vspace{1pt}
+    \small +1 (778) 583-2260 $|$ Kelowna, BC, Canada \\
+    \href{mailto:mister.harshkumar@gmail.com}{\underline{mister.harshkumar@gmail.com}} $|$
+    \href{https://linkedin.com/in/harshsaw}{\underline{linkedin.com/in/harshsaw}} $|$
+    \href{https://github.com/harshsaw}{\underline{github.com/harshsaw}} $|$
+    \href{https://harshsaw.me}{\underline{harshsaw.me}}
+\end{center}
+
+%---------- SUMMARY ----------
+\section{Summary}
+\small{{SUMMARY}}
+
+%---------- EDUCATION ----------
+\section{Education}
+  \resumeSubHeadingListStart
+    \resumeSubheading
+      {Bachelor of Computer Information Systems}{Expected Dec 2026}
+      {Okanagan College}{Kelowna, BC, Canada}
+  \resumeSubHeadingListEnd
+
+%---------- EXPERIENCE ----------
+\section{Experience}
+  \resumeSubHeadingListStart
+{{EXPERIENCE}}
+  \resumeSubHeadingListEnd
+
+%---------- PROJECTS ----------
+\section{Projects}
+    \resumeSubHeadingListStart
+      \resumeProjectHeading
+          {\textbf{Document Intelligence Platform (RAG)} $|$ \emph{\small FastAPI, LangChain, Qdrant, Groq, Gemini, AWS ECS Fargate, Docker}}{\href{https://harshsaw.me}{\underline{Demo}} $|$ \href{https://github.com/harshsaw}{\underline{GitHub}}}
+          \resumeItemListStart
+            \resumeItem{Architected a multi-tenant RAG platform with session-isolated Qdrant indexes, enabling semantic search and conversational Q\&A over PDF, DOCX, and TXT documents.}
+            \resumeItem{Engineered resilient LLM orchestration using \textbf{LangChain RunnableWithFallbacks}, implementing automatic provider failover (Groq to Gemini) with streaming retrieval pipelines featuring context-aware query rewriting and hybrid document chunking.}
+            \resumeItem{Deployed to \textbf{AWS ECS Fargate} with GitHub Actions CI/CD; designed idempotent ingestion using SHA-256 fingerprinting to deduplicate embeddings and reduce redundant indexing.}
+          \resumeItemListEnd
+      \resumeProjectHeading
+          {\textbf{CodeExpo -- Browser-Based IDE \& Sandbox} $|$ \emph{\small React, Node.js, WebSocket, Docker, Nginx, xterm.js}}{\href{https://harshsaw.me}{\underline{Demo}} $|$ \href{https://github.com/harshsaw}{\underline{GitHub}}}
+          \resumeItemListStart
+            \resumeItem{Engineered a full-stack browser-based IDE with live terminal via \textbf{xterm.js} and WebSocket, real-time code execution with browser preview pane, and Socket.IO file synchronization.}
+            \resumeItem{Architected containerized sandbox environments using \textbf{Docker} with multi-stage builds and Nginx reverse proxy, managing isolated execution contexts per session.}
+          \resumeItemListEnd
+    \resumeSubHeadingListEnd
+
+%---------- TECHNICAL SKILLS ----------
+\section{Technical Skills}
+ \begin{itemize}[leftmargin=0.15in, label={}]
+    \small{\item{
+     \textbf{Languages}{: JavaScript (ES6+), TypeScript, Python, Go (Golang), Bash} \\
+     \textbf{Frontend \& Mobile}{: React, Next.js, React Native, Qwik.js, Electron} \\
+     \textbf{Backend \& Messaging}{: NestJS, FastAPI, Express, Fastify, GraphQL, gRPC/Protobuf, Apache Kafka, BullMQ, RabbitMQ} \\
+     \textbf{Databases}{: PostgreSQL, MongoDB, DynamoDB, Redis, MySQL, SurrealDB, SQLite} \\
+     \textbf{Cloud \& DevOps}{: AWS, Azure, Docker, Kubernetes, Terraform, Pulumi, Bazel, Jenkins, GitHub Actions} \\
+     \textbf{AI \& GenAI}{: LangChain, LangSmith, AutoGen, RAG, FAISS, Pinecone, Qdrant, AstraDB, AWS Bedrock}
+    }}
+ \end{itemize}
+
+%---------- ACHIEVEMENTS ----------
+\section{Achievements}
+\begin{itemize}[leftmargin=0.15in]
+    \resumeItem{Built an end-to-end stock prediction pipeline covering \textbf{500 S\&P 500 constituents} over 5 years of 15-minute bar data --- XGBoost models trained across 26 intraday horizons on \textbf{4x NVIDIA H100 GPUs} (DRAC), with automated warm-start retraining every 15 minutes during market hours.}
+    \resumeItem{Ranked in the \textbf{top 2\%} of verified freelancers on Freelancer.com with a 5-star rating, delivering 25+ production-grade projects.}
+    \resumeItem{Won an inter-university college hackathon, demonstrating innovative problem-solving and technical proficiency.}
+\end{itemize}
+
+\end{document}
